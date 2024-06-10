@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
                         minEditText.text.clear()
                         Toast.makeText(
                             this,
-                            "Weather added successfully",
+                            "Data added successfully",
                             Toast.LENGTH_SHORT
                         ).show()
                     }
